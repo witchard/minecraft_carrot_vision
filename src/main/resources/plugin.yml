@@ -1,0 +1,8 @@
+name: CarrotVision
+version: '${project.version}'
+main: com.github.witchard.minecraft_carrot_vision.CarrotVision
+api-version: 1.19
+prefix: carrot_vision
+authors: [ witchard ]
+description: Eat carrots to see in the dark!
+website: https://github.com/witchard/carrot_vision
