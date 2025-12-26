@@ -19,5 +19,5 @@ jobs:
       - run: mkdir upload && cp target/minecraft_carrot_vision*.jar upload
       - uses: actions/upload-artifact@v6
         with:
-          name: minecraft_teleport
+          name: minecraft_carrot_vision
           path: upload
